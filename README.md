@@ -23,5 +23,5 @@ OBSERVATIONS:
 
 -The higher the discounted price,the higher the reviews and ratings
 
--*Electronics* is the product with the highest reviews and rating
+-*Electronics* is one of the products with the highest reviews and rating
 
